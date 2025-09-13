@@ -1,4 +1,4 @@
-I congradulate you for making it this far.
+I congratulate you for making it this far.
 If you are the few poor Linux users at Lindenwood, I salute you.
 If you are a job recruiter looking through my Github, thank you.
   - I have set up an email alias for cool people. :)
